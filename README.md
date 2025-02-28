@@ -39,4 +39,7 @@ Let's now install Suricata onto our Ubuntu Server.
 <p>Let's now get started with the installation of Suricata.</p>
 
 ### 2.Installing Suricata on our Ubuntu Server
+<p>
+  Now we need to install Suricata onto our ubuntu server.
+</p>
 
